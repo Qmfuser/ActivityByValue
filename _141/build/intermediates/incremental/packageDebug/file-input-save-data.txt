@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Thu Oct 06 09:54:39 CST 2016
+1.base=D\:\\AndroidCopy\\MyApplication106\\_141\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\AndroidCopy\\MyApplication106\\_141\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+1.file=D\:\\AndroidCopy\\MyApplication106\\_141\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+4.set=DEX
+2.base=D\:\\AndroidCopy\\MyApplication106\\_141\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=D\:\\AndroidCopy\\MyApplication106\\_141\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+count=5
+1.set=ANDROID_RESOURCE
+3.base=D\:\\AndroidCopy\\MyApplication106\\_141\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=D\:\\AndroidCopy\\MyApplication106\\_141\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\AndroidCopy\\MyApplication106\\_141\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.file=D\:\\AndroidCopy\\MyApplication106\\_141\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+4.base=D\:\\AndroidCopy\\MyApplication106\\_141\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main

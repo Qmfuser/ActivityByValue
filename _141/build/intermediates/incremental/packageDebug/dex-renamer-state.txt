@@ -1,0 +1,4 @@
+#Thu Oct 06 09:54:39 CST 2016
+base.0=D\:\\AndroidCopy\\MyApplication106\\_141\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\AndroidCopy\\MyApplication106\\_141\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
